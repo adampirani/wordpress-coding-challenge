@@ -12,14 +12,16 @@
 * A new meta field `player_tv_url` was added to the `player` custom post
 * All new players drafted for the upcoming season have the proper value set
 
-### We need to update any missing `player_tv_url` post metadata
-
-1. Write the code that would accomplish this
-1. How would you trigger the execution of this code?
-
 #### Summary
 
 | Type | Name |
 | ---- | ---- |
 | Custom Post Type | player |
 | Custom Fields | player_external_id, player_tv_url |
+
+### We need to update any missing `player_tv_url` post metadata
+
+1. Write the code that would accomplish this.
+1. How would you trigger the execution of this code?
+
+
