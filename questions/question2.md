@@ -1,4 +1,4 @@
-### Consider the following code snippet. 
+### Consider the following code snippet
 
 ```php
 <?php
@@ -11,7 +11,7 @@ function custom_menu(){
 
 function custom_menu_page_display(){
   ?>
-    <h1>Hello Word</h1>
+    <h1>Hello World</h1>
     <p>This is a custom page</p>
   <?php
 }
