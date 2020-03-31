@@ -13,4 +13,4 @@ function hello_world ( $content ){
 ### Answer the following questions:
 
 1. Why isn't this visible on https://my-site.com/wp-admin/plugins.php?
-1. If it was visible, what would this plugin do if enabled?
+1. If enabled, what would this plugin do?
