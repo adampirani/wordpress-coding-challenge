@@ -5,8 +5,10 @@
 
 add_action('admin_menu', 'custom_menu');
 
+$custom_menu_string = __( 'Custom Menu' , 'nba');
+
 function custom_menu(){
-  add_menu_page('Custom Menu', 'Custom Menu', 'manage_options', 'custom-menu', 'custom_menu_page_display');
+  add_menu_page($custom_menu_string, $custom_menu_string, 'manage_options', 'custom-menu', 'custom_menu_page_display');
 }
 
 function custom_menu_page_display(){
