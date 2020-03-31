@@ -1,5 +1,3 @@
-[Back to all questions](/)
-
 ### Given a file `wp-content/plugins/hello-world.php` with the following content:
 
 ```php
