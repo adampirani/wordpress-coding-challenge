@@ -1,5 +1,3 @@
-[Back to all questions](/)
-
 ### Consider the following code snippet. 
 
 ```php
